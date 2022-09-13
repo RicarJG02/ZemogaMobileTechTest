@@ -6,7 +6,7 @@ I'm Ricardo Guerrero from Costa Rica, and this will be my example of messaging a
 
 ## Zemoga Post App
 
-To run the project you must have Xcode, so download the project from github and place it on your computer, for simplicity put on the desktop so to access it and open will be easier.
+To run the project you must have Xcode, so download the project from github and place it on your computer, for simplicity put on the desktop so find it faster to decompress it and then open it.
 
 I used something simple to this app and clasify the files by ViewModel to fetch de information,  then the Models to know how the data will come from the API and finally, the Views so in there are some functions as well all the UI.
 
